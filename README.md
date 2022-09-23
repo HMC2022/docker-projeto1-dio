@@ -1,2 +1,2 @@
 # docker-projeto1-dio
-Executando uma aplicação WEB com Apache e docker compose 
+Executando um container de uma aplicação WEB com o docker compose 
